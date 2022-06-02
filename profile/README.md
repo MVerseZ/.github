@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Token account https://solscan.io/token/4bFzGA2egYfAqdaVzX4TcQ8j7QD5tYVu5HUkpHpRWEQc?cluster=devnet#holders
+[Token account](https://solscan.io/token/4bFzGA2egYfAqdaVzX4TcQ8j7QD5tYVu5HUkpHpRWEQc?cluster=devnet)
 
 <!-- **Here are some ideas to get you started:**
 
