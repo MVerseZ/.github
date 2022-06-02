@@ -2,6 +2,8 @@
 
 [Token account](https://solscan.io/token/4bFzGA2egYfAqdaVzX4TcQ8j7QD5tYVu5HUkpHpRWEQc?cluster=devnet)
 
+- 02.06.2022 5:20AM: mint 10.000.000.000 tokens
+
 <!-- **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
