@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[Token account](https://solscan.io/token/4bFzGA2egYfAqdaVzX4TcQ8j7QD5tYVu5HUkpHpRWEQc?cluster=devnet)
-
-- 02.06.2022 5:20AM: mint 10.000.000 dev tokens
+[Token account] _TODO_
 
 <!-- **Here are some ideas to get you started:**
 
