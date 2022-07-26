@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[[Token account]](https://solscan.io/account/3AanjRTojfPjWddyzAhtwVDqQX8WyKLyrcnRLty3vcQz?cluster=testnet) _TODO_
+[[Token account]](https://solscan.io/token/5fDTbDPtMSiSVpsFRb2uCHStMopu2om54LUwMzQjpqFX?cluster=testnet) _TODO_
 
 <!-- **Here are some ideas to get you started:**
 
