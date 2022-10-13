@@ -1,7 +1,4 @@
 ## Hi there 👋
-[[SITE]](https://safetymetaverse.site)
-
-[[Token account]](https://solscan.io/token/5fDTbDPtMSiSVpsFRb2uCHStMopu2om54LUwMzQjpqFX?cluster=testnet) _TODO_
 
 <!-- **Here are some ideas to get you started:**
 
